@@ -19,7 +19,7 @@ Consistently high ranks in livability scores
     
 **Goal:**
 
-    To find the top 5 zip codes for our savvy investors to deploy capital into for maximum financial return (ROI)
+To find the top 5 zip codes for our savvy investors to deploy capital into for maximum financial return (ROI)
 
 **Assumptions:**
 
@@ -35,7 +35,7 @@ Our dataset included past home sales in D.C. from 1996-2018.
 We sorted the price data by zipcodes (n=18)
 
 
-        !(Figure 1) ["/Users/buddy4732/datascience/zillow_home_prices_analysis/figure_1.png"]
+![Figure 1] ("/Users/buddy4732/datascience/zillow_home_prices_analysis/figure_1.png")
 
 Created a model to predict future housing  price trends among 18 D.C. zip codes
 Based on our model, the top 5 zip codes were selected based on predicted ROI(increase in price from time of purchase)
