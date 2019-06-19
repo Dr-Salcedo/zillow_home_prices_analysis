@@ -37,7 +37,7 @@ We sorted the price data by zipcodes (n=18)
 
 ![figure_1] ("/Users/buddy4732/datascience/zillow_home_prices_analysis/dc_zip_pic.png")
 
-![figure_1](/Users/buddy4732/datascience/zillow_home_prices_analysis/dc_zip_pic.png)
+![figure_1] (/Users/buddy4732/datascience/zillow_home_prices_analysis/dc_zip_pic.png)
 
 ![figure_1] ("/Users/buddy4732/datascience/zillow_home_prices_analysis/dc_zip_pic.png")
 
